@@ -1,0 +1,10 @@
+[book]
+title        = "特定的高强度训练对足球裁判员体能水平的影响"
+authors      = ["zz"]
+language     = "zh"
+multilingual = false
+src = "src"
+
+[output.html]
+mathjax-support = true
+git-repository-url = "https://zzzxj12138.github.io/index/"
